@@ -1,0 +1,83 @@
+body {
+	margin: 0;
+}
+.section-1 {
+	width: 1140px;
+	margin: auto;
+	position: relative;
+}
+header {
+	width: 1140px;
+	margin: auto;
+	padding-top: 40px;
+}
+nav {
+	display: flex;
+	justify-content: space-between;
+}
+h1 {
+	color: #1F3F68;
+	font-size: 64px;
+	letter-spacing: 0.04em;
+	color: #1F3F68;
+}
+.text {
+	line-height: 
+	letter-spacing: 0.05em;
+	color: #1F3F68;
+	opacity: 0.6;
+}
+.header-text {
+	width: 630px;
+}
+.image-1 {
+	position: absolute;
+	left: 700px;
+	top: 400px;
+	z-index: 2;
+}
+.image-2 {
+	position: absolute;
+	left: 834px;
+	top: 351px;
+	z-index: 2;
+}
+.image-3 {
+	position: absolute;
+	z-index: 3;
+	left: 1100px;
+	top: 301px;
+}
+.image-4, .image-5 {
+	position: absolute;
+	left: 600px;
+	top: 150px; 
+}
+.image-6 {
+	position: absolute;
+	z-index: 2;
+	left: 950px;
+	top: 120px;
+}
+.image- {
+	position: absolute;
+	z-index: 0.5;
+	width: 1366px;
+	left: -150px;
+	top: 0px;	
+}
+.header-btn {
+	background: #5A98D0;
+	box-shadow: 5px 10px 20px rgba(53, 110, 173, 0.2);
+	border-radius: 10px;
+	padding: 15px 50px;
+	margin: 70px;
+	color: white;
+}
+
+
+
+
+
+
+
